@@ -1,0 +1,14 @@
+{
+  "name": "instabot",
+  "version": "1.0.0",
+  "description": "Instagram bit that logins and auto like top 3 post of provided hashtags.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anuj Singh",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.19.0"
+  }
+}
